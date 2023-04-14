@@ -62,4 +62,4 @@ java 类名
 注意：java命令后面跟的不是文件路径 而是一个类的名字
 首先需要先将Dos窗口中的目录切换到HelloWord.class文件所在的目录。
 然后直接执行java HelloWord
-![运行结果]([图片_20230414183427.png](https://raw.githubusercontent.com/liuflypen/IM/main/tupian/%E5%9B%BE%E7%89%87_20230414183427.png?token=GHSAT0AAAAAACBA5ETERK3WLO6FELNDI3DGZBZEG3Q)) 
+![结果]https://raw.githubusercontent.com/liuflypen/IM/main/tupian/%E5%9B%BE%E7%89%87_20230414183427.png?token=GHSAT0AAAAAACBA5ETERK3WLO6FELNDI3DGZBZEG3Q
