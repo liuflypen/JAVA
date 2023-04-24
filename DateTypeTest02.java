@@ -12,6 +12,6 @@ public class DateTypeTest02
         System.out.println(i);
         */
        System.out.println(k);
-       String.out.println(f);
+       System.out.println(f);
      }
 }
